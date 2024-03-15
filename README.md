@@ -1,6 +1,6 @@
 # Screenshot
 ![readmetodo](https://github.com/kubralkn/To-Do_List/assets/160510842/e15bd817-b656-4acb-90ad-84247ca4b4d2)
-)
+
 
 # To-Do List Application
 This project develops a simple To-Do List application using JavaScript. Users can add, delete, and search for tasks.
